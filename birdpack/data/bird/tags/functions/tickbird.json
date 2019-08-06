@@ -1,0 +1,7 @@
+{
+  "values":[
+	"#bird:gadgets/all_gadgets",
+  "#bird:areas/all_areas",
+  "#bird:misc/all_action_detection"
+  ]
+}

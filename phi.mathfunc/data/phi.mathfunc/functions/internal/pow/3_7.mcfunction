@@ -1,0 +1,2 @@
+execute if score $phi.mathfunc.pow.exp phitemp matches 4..5 run function phi.mathfunc:internal/pow/4_5
+execute unless score $phi.mathfunc.pow.exp phitemp matches 4..5 run function phi.mathfunc:internal/pow/3.6_7

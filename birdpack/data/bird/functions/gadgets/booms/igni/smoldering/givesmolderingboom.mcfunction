@@ -1,0 +1,1 @@
+give @s minecraft:snowball{boom:"smoldering",display:{Name:"{\"text\":\"Smoldering Boom\",\"color\":\"red\",\"italic\":false}",Lore:["[{\"text\":\"Radius: \",\"color\":\"white\",\"italic\":false},{\"text\":\"4\",\"color\":\"red\",\"italic\":false}]","[{\"text\":\"Spreads \",\"color\":\"white\",\"italic\":false},{\"text\":\"fire\",\"color\":\"red\",\"italic\":false}]"]}} 1

@@ -1,0 +1,1 @@
+scoreboard objectives add bowUse minecraft.used:minecraft.bow

@@ -1,0 +1,8 @@
+{
+  "values":[
+	"bird:gadgets/booms/basic/mini/minimain",
+	"bird:gadgets/booms/basic/medium/mediummain",
+	"bird:gadgets/booms/basic/massive/massivemain",
+	"bird:gadgets/booms/basic/mega/megamain"
+  ]
+}

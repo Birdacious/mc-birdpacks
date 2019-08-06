@@ -1,0 +1,21 @@
+{
+  "values":[
+	"bird:gadgets/booms/basic/mini/givemini",
+	"bird:gadgets/booms/basic/medium/givemedium",
+	"bird:gadgets/booms/basic/massive/givemassive",
+	"bird:gadgets/booms/basic/mega/givemega",
+	
+	"bird:gadgets/booms/bee/buzzing/givebuzzing",
+	"bird:gadgets/booms/bee/bumbling/givebumbling",
+	"bird:gadgets/booms/bee/bombinating/givebombinating",
+	
+	"bird:gadgets/booms/cold/frosty/givefrosty",
+	"bird:gadgets/booms/cold/frigid/givefrigid",
+	"bird:gadgets/booms/cold/freezing/givefreezing"
+	
+	"bird:gadgets/boom/time/timeslow/givetimeslow",
+	"bird:gadgets/boom/time/timesloth/givetimesloth",
+	"bird:gadgets/boom/time/timeslug/givetimeslug",
+	"bird:gadgets/boom/time/timestop/givetimestop",
+  ]
+}

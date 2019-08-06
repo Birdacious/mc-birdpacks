@@ -1,0 +1,6 @@
+{
+  "values":[
+	"#bird:areas/spawn/spawnalways",
+	"bird:areas/spawn/spawnplayerpresent"
+  ]
+}

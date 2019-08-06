@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bow",
+          "functions": [
+            {
+              "function": "minecraft:copy_nbt",
+              "source": "this",
+              "ops": [
+                {
+                  "source": "SelectedItem.tag.display",
+                  "target": "display",
+                  "op": "replace"
+                },
+                {
+                  "source": "SelectedItem.tag.Enchantments[]",
+                  "target": "Enchantments",
+                  "op": "append"
+                },
+                {
+                  "source": "SelectedItem.tag.lasersight",
+                  "target": "lasersight",
+                  "op": "replace"
+                },
+                {
+                  "source": "SelectedItem.tag.MOREpossibleBOWmodNAMES",
+                  "target": "bowmodname",
+                  "op": "replace"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

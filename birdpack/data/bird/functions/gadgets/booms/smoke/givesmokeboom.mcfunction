@@ -1,0 +1,1 @@
+give @p minecraft:snowball{display:{Lore:["§fDuration: §c10s","§fRadius: §c4","§fThose in radius are:","§f+ §7§oInvisible","§f+ §mUntargetable","§f- §5Blinded","","§f(Blocks most projectiles)"],Name:"{\"bold\":true,\"italic\":false,\"color\":\"dark_gray\",\"text\":\"Smoke Boom\"}"}}
