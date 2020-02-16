@@ -1,0 +1,1 @@
+execute if entity @a[x=1436, dx=10, y=124, dy=3, z=31334, dz=10] as @a[x=1436, dx=10, y=124, dy=3, z=31334, dz=10] at @s run teleport ~369 ~ ~-34

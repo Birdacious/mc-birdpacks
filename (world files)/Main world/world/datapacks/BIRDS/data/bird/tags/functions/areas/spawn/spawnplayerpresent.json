@@ -1,0 +1,7 @@
+{
+  "values":[
+	"#bird:areas/spawn/actualfunctions/launching",
+	"#bird:areas/spawn/actualfunctions/deathcounter",
+	"#bird:areas/spawn/actualfunctions/teleporting"
+  ]
+}

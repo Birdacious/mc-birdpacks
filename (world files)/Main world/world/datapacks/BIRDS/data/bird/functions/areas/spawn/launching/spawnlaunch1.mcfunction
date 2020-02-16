@@ -1,0 +1,1 @@
+execute as @a[x=1353.5, y=67, z=31348.5, distance=..0.4] at @s run function bird:areas/spawn/launching/spawnlaunch1summon

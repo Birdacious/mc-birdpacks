@@ -1,0 +1,7 @@
+{
+  "values":[
+	"bird:areas/spawn/blocksetting/deathcounter/checkifdeathcounterpressed",
+	"bird:areas/spawn/blocksetting/deathcounter/skulllookleft",
+	"bird:areas/spawn/blocksetting/deathcounter/skulllookright"
+  ]
+}

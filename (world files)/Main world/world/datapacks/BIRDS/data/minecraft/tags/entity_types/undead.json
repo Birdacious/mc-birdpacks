@@ -1,0 +1,10 @@
+{
+	"values": [
+		"#minecraft:skeletons",
+		"#minecraft:zombies",
+		"minecraft:phantom",
+		"minecraft:skeleton_horse",
+		"minecraft:wither",
+		"minecraft:zombie_pigman"
+	]
+}

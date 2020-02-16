@@ -1,0 +1,8 @@
+{
+  "values":[
+	"#bird:gadgets/booms/basic",
+	"#bird:gadgets/booms/bee",
+	"#bird:gadgets/booms/cold",
+	"#bird:gadgets/booms/time"
+  ]
+}
